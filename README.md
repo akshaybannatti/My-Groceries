@@ -17,5 +17,4 @@ The GIF below shows the inspiration concept app.
 ### Design Details
 As exposed on the inspiration video, there's some small design details also present in this app. That is animation on product image, animation when added to cart, animation on scroll to list of all orders, gridview of product cut according with the radius border corner in the white container, in the screen about the product there's a white shadow near of "Add to cart" which apply a great effect. Plus: removing order from cart list moving to right or left. 
  
-### Notes
-This code was build in a few hours within 1 day, so all the interactions was made to be similar with the inspiration video, no more screen or special interaction was added on this project so far.
+
